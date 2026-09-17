@@ -6,6 +6,7 @@ git init
 git status
 git add file_name
 git commit -m "The changes we were done add it here"
+git show
 git log 
 git log --oneline
 git log --oneline --graph --all
