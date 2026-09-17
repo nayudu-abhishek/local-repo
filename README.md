@@ -34,7 +34,7 @@ git pull origin main
 git fetch
 
 
-cmds:
+cmds: commands
 
 mkdir file_name
 cd filename
