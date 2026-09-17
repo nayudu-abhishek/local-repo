@@ -1,0 +1,43 @@
+git config --global user.name
+git config --global user.email
+git config --global init.default main
+git init
+git status
+git commit -m "commit message"
+git log 
+git log --oneline
+git branch 
+git branch branch_name
+git branch -b branch_name 
+git branch -d branch_name
+git checkout checkout_name
+git switch -c branch_name
+git switch
+git restore 
+git reset
+git reset soft HARD~1
+git reset hard soft~1
+git diff branch_name
+git stash
+git clone 
+git remote add origin url (https://github.com/user-name/repo_name.git)
+git remote -v
+git push origin -u main
+git pull origin -u main
+git merge branch_name
+git fetch 
+
+cmds:
+mkdir 
+cd 
+rmdir /s /q folder_name
+type file -to see all the content in file
+dir -- it shows all the directory
+cd .. --it will move onestep back from the current folder
+del file_name
+start . -- to open the spcified folder location in the filemanager
+where file_name - to find the location of the spcified file
+ren old_filename new_filename
+move old_filename new_filename --move one file to another file
+copy source.txt destination.txt
+cls -- clears the screen
