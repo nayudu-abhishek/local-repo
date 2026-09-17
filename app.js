@@ -1,1 +1,1 @@
-"console.log('added new line')"
+"a new line"
