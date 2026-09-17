@@ -1,1 +1,1 @@
-"unfinished idea"
+"console.log('hello')"
