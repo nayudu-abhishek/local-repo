@@ -8,7 +8,7 @@ git add file_name
 git commit -m "The changes we were done add it here"
 git show
 git log 
-git help
+git help 
 git log --oneline
 git log --oneline --graph --all
 git branch 
